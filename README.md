@@ -15,3 +15,6 @@
 <br>
 
 <h2 align="center">IMAGENS</h2>
+<br>
+
+<img src="https://raw.githubusercontent.com/KaiqueSouzaM/lista-tarefas-js/8a407ff7b7b6391695cd623ea097c7abbf8f3a93/assets/Readme.png" alt="Image-code" />
