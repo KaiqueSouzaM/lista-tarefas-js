@@ -67,3 +67,25 @@ button:active {
     margin: auto;
     font-size: 16px;
 }
+
+    @media screen and (max-width: 500px) {
+       
+       body {
+        margin-top: 0;
+       }
+       
+        #geral {
+            border-radius: 0;
+            height: 100vh;
+            width: auto;
+        }
+
+       h1 {
+        margin-left: 15px;
+       }
+
+      input {
+        margin: 10px 0 10px 15px;
+      }
+
+    }
